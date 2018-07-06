@@ -1,0 +1,5 @@
+I'd like to use this file to credit GuideBot Class for some of the code
+used in this learning project. The link to it is here if you would like to
+check it out: 
+
+https://github.com/AnIdiotsGuide/guidebot-class
