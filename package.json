@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "enmap": "^2.6.3"
+    "enmap": "^2.6.3",
+    "paginate-array": "^2.1.0"
   }
 }
